@@ -13,3 +13,4 @@ Caliburn.Micro is a small, yet powerful framework, designed for building applica
 ## Sponsoring
 
 The Caliburn.Micro team uses ReSharper by [JetBrains](http://www.jetbrains.com/).
+"# CaliburnMicroHandleWithTaskNoAwait" 
